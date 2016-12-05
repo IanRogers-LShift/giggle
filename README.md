@@ -1,6 +1,6 @@
 # Giggle - semantic searching in github repos
 
-This a re-working of
+This is (will be) a re-working of
 [A Github Notification Bot for Issue Reviewers with Graph Based NLP](http://graphaware.com/neo4j/nlp/2016/09/06/power-a-github-bot-for-issue-reviewers-with-graph-based-nlp.html) 
 but using:
 
